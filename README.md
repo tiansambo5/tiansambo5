@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @tiansambo5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# NDIWO HUB
 
-<!---
-tiansambo5/tiansambo5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A community and business support platform blueprint.
+
+## Features
+- Authentication
+- Marketplace
+- Jobs Board
+- Community Feed
+- Messaging
+- Events
+- Admin Panel
+
+## Stack
+- React + Vite
+- Node.js + Express
+- MySQL
